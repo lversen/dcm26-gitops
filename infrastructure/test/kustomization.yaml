@@ -8,3 +8,4 @@ resources:
   # Uncomment in Step X
   - washere
   - whoami
+  - dataverse
