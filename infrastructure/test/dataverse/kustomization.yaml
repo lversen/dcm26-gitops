@@ -10,6 +10,7 @@ resources:
   - ../../base/postgres
   - ../../base/solr
   - ../../base/dataverse
+  - ../../base/jobs
   - ingress.yaml
 
 images:
